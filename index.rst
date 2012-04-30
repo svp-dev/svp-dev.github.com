@@ -27,6 +27,7 @@ The software is composed of multiple separate parts:
   - https://github.com/svp-dev/slcore
 
 - Microgrid-specific software:
+
   - Microgrid simulator: https://github.com/svp-dev/mgsim
   - Modified GNU binutils: https://github.com/svp-dev/binutils
   - Modified GCC: https://github.com/svp-dev/gcc
@@ -51,5 +52,5 @@ Contact
 
 We are always keen to hear about your new ideas! If you think you've
 got something to share, get in contact: Put in a pull request, get in
-contact with us at svp-discuss@svp-home.orgk or join
+contact with us at svp-discuss@svp-home.org or join
 the discussion in ``#adv`` on Freenode.
