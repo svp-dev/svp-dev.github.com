@@ -43,6 +43,9 @@ The software is composed of multiple separate parts:
   found at the same location as above:
   http://dist.svp-home.org/deploy/
 
+The way the parts are assembled together by the SL installer is
+documented here: https://notes.svp-home.org/sl12.html
+
 Contact
 =======
 
