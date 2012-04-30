@@ -47,6 +47,11 @@ The software is composed of multiple separate parts:
 The way the parts are assembled together by the SL installer is
 documented here: https://notes.svp-home.org/sl12.html
 
+Licensing
+=========
+
+Licensing terms are described in the ``README`` files of the individual sub-projects.
+
 Contact
 =======
 
